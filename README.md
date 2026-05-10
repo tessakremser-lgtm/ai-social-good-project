@@ -8,6 +8,10 @@ I believe that the topic is missing certain regulations, such as strict rules fo
 
 ##AI Capability — Which lab capability addresses the failure point, and why does it fit?
 
+The AI capability I used in this lab is natural language processing for structured data extraction. The system gets unstructured text, in this case either a complaint or a question, and sorts it into structured fields determained by a schema such as location, waste type, urgency, responsible department and entity type.
+
+This fits well because the main failure point is unstructured input either in from of a text description or a picture. NLP then takes that input and converts it into a reliable pattern that will not change evaluation either if the code is ran for several times in a row. This ensures reliable decision-making and consistency for similar inquieries.
+
 ##Workflow
 
 *   Input: Either complaint or question. Eg. someone could upload a picture of a dumpster behind a restaurant to file a claim of inproper waste management. Another person could upload a picture or describe a food item with a specific date label and ask about the edibility of this product and how much grace period there is after the date.
@@ -31,3 +35,5 @@ I asked AI to help me build the framework to input an edge case prompt because I
 
 
 ##Oversight and Tradeoff — Where does human review sit, and what does the one change cost?
+
+
