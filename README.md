@@ -36,6 +36,6 @@ I asked AI to help me build the framework to input an edge case prompt because I
 
 ##Oversight and Tradeoff
 
-Human review sits right after AI provides the structured output. Humans will be the ones verifying the complaints and taking action in consequence to them. If a complaint has null values or fields that are unknown, it is the human's job to fill in or even find out the missing data in serious cases. This can make the process less efficient, but having knowlegde and accuracy about illegal food waste is of higher importance. Therefore, in some cases there will be a trade off in efficiency due to missing data.
+Human review sits right after AI provides the structured output. Humans will be the ones verifying the complaints and taking action in consequence to them. If a complaint has null values or fields that are unknown, it is the human's job to fill in or even find out the missing data in serious cases. Vague descriptions can be a cause for the need of human check ups. This can make the process less efficient, but having knowlegde and accuracy about illegal food waste is of higher importance. Therefore, in some cases there will be a trade off in efficiency due to missing data because decisions need accountability.
 
 
