@@ -16,7 +16,7 @@ This fits well because the main failure point is unstructured input either in fr
 
 *   Input: Either complaint or question. Eg. someone could upload a picture of a dumpster behind a restaurant to file a claim of inproper waste management. Another person could upload a picture or describe a food item with a specific date label and ask about the edibility of this product and how much grace period there is after the date.
 
-*   AI Process: The AI would either evaluate the picture in terms of edibility/amount/kind of items in order to determine if the complaint is valid and then start an official complaint process, asking for details to determine if a business or private household is accused. The complaint will then be forwarded to the specific department.
+*   AI Process: The AI would either evaluate the picture in terms of edibility/amount/kind of items in order to determine the type of  complaint and then start an official complaint process, asking for details to determine if a business or private household is accused. The complaint will then be forwarded to the specific department. The final evaluation if the complaint is valid will be done by humans of a specific department.
 Otherwise the AI will answer the question by analyzing if it is about waste disposal/expiration date/giving away food. For the examples above, AI would forward an official complaint for case one and answer the expiration date question by giving a specific time estimate for example two.
 
 *   Output: AI will output a summary of the reported complaint and contact details for the specific department or it will provide an answer specialized for each food item and clearly state where to dispose it, when to eat it or where to give it as you can see in the attached images of output.
