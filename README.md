@@ -23,6 +23,11 @@ Otherwise the AI will answer the question by analyzing if it is about waste disp
 
 *   Real-World Action: Regulations will be inforced strictly following the complaint and people asking questions can implement the newly won knowledge in their behavior and habits to minimize waste and tackle hunger at the same time. (maybe business would learn about apps like "Too Good To Go" to eliminate unnecessary waste).
 
-##Failure Case — One specific failure, with a reference to the lab output that showed it is possible.
+##Failure Case
+
+I asked AI to help me build the framework to input an edge case prompt because I did not sure how to input it without changing my prior code. Then changed the prompt to my own made up one where the entity type was unknown. In this case the accused_entity_type is unknown and therefore a somewhat inoffical complaint would not lead to proper results. This is a near-miss because the evaluation is correct, there is just important information missing that the AI would have needed to reask about to get clarifications.
+
+<img width="2602" height="1122" alt="Image 5-9-26 at 7 11 PM" src="https://github.com/user-attachments/assets/6ddad79d-65fb-46b3-ba96-67c5e87a8ea6" />
+
 
 ##Oversight and Tradeoff — Where does human review sit, and what does the one change cost?
