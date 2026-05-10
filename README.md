@@ -1,7 +1,8 @@
 # ai-social-good-project
 This is an AI system to help manage food waste issues.
 
-##Problem
+#Problem
+
 I decided to focus on the issue of food waste which relates to topic 12 of the UN SDG’s, responsible consumption and production. It also connects to topic 2 which is zero hunger. It affects the group of people that struggles to pay for their food consumption, such as homeless people, low-income households and college students, as more knowledge about the issue and a better network could form connections that minimize waste and improve people with hunger all at once.
 I believe that the topic is missing certain regulations, such as strict rules for restaurants or grocery stores. Additionally, better education about different labels, for example “best by” or “sell by” could improve the situation in private households. The correct discarding of trash is also important, so people need to choose the right trash cans.
 
