@@ -6,7 +6,7 @@ This is an AI system to help manage food waste issues.
 I decided to focus on the issue of food waste which relates to topic 12 of the UN SDG’s, responsible consumption and production. It also connects to topic 2 which is zero hunger. It affects the group of people that struggles to pay for their food consumption, such as homeless people, low-income households and college students, as more knowledge about the issue and a better network could form connections that minimize waste and improve people with hunger all at once.
 I believe that the topic is missing certain regulations, such as strict rules for restaurants or grocery stores. Additionally, better education about different labels, for example “best by” or “sell by” could improve the situation in private households. The correct discarding of trash is also important, so people need to choose the right trash cans.
 
-##AI Capability — Which lab capability addresses the failure point, and why does it fit?
+##AI Capability
 
 The AI capability I used in this lab is natural language processing for structured data extraction. The system gets unstructured text, in this case either a complaint or a question, and sorts it into structured fields determained by a schema such as location, waste type, urgency, responsible department and entity type.
 
@@ -34,6 +34,8 @@ I asked AI to help me build the framework to input an edge case prompt because I
 <img width="2602" height="1122" alt="Image 5-9-26 at 7 11 PM" src="https://github.com/user-attachments/assets/6ddad79d-65fb-46b3-ba96-67c5e87a8ea6" />
 
 
-##Oversight and Tradeoff — Where does human review sit, and what does the one change cost?
+##Oversight and Tradeoff
+
+Human review sits right after AI provides the structured output. Humans will be the ones verifying the complaints and taking action in consequence to them. If a complaint has null values or fields that are unknown, it is the human's job to fill in or even find out the missing data in serious cases. This can make the process less efficient, but having knowlegde and accuracy about illegal food waste is of higher importance. Therefore, in some cases there will be a trade off in efficiency due to missing data.
 
 
