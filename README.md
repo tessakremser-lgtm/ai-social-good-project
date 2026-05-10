@@ -20,6 +20,7 @@ Otherwise the AI will answer the question by analyzing if it is about waste disp
 *   <img width="2880" height="1626" alt="Image 5-9-26 at 7 06 PM" src="https://github.com/user-attachments/assets/2cfd5f1e-7c72-47fa-a51f-11c6f8885f68" />
 <img width="2880" height="1626" alt="Image 5-9-26 at 7 07 PM" src="https://github.com/user-attachments/assets/e589c6f3-5708-498b-8cd6-0f8d3442a40b" />
 
+
 *   Real-World Action: Regulations will be inforced strictly following the complaint and people asking questions can implement the newly won knowledge in their behavior and habits to minimize waste and tackle hunger at the same time. (maybe business would learn about apps like "Too Good To Go" to eliminate unnecessary waste).
 
 ##Failure Case — One specific failure, with a reference to the lab output that showed it is possible.
