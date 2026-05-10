@@ -17,8 +17,8 @@ Otherwise the AI will answer the question by analyzing if it is about waste disp
 
 *   Output: AI will output a summary of the reported complaint and contact details for the specific department or it will provide an answer specialized for each food item and clearly state where to dispose it, when to eat it or where to give it.
 
-*   <img width="2880" height="1626" alt="Image 5-9-26 at 7 06 PM" src="https://github.com/user-attachments/assets/2cfd5f1e-7c72-47fa-a51f-11c6f8885f68" />
 <img width="2880" height="1626" alt="Image 5-9-26 at 7 07 PM" src="https://github.com/user-attachments/assets/e589c6f3-5708-498b-8cd6-0f8d3442a40b" />
+<img width="2880" height="1626" alt="Image 5-9-26 at 7 06 PM" src="https://github.com/user-attachments/assets/2cfd5f1e-7c72-47fa-a51f-11c6f8885f68" />
 
 
 *   Real-World Action: Regulations will be inforced strictly following the complaint and people asking questions can implement the newly won knowledge in their behavior and habits to minimize waste and tackle hunger at the same time. (maybe business would learn about apps like "Too Good To Go" to eliminate unnecessary waste).
